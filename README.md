@@ -1,29 +1,7 @@
-# photo_viewer
+# Photo_Viewer
 
-## Project setup
-```
-npm install
-```
+画像を表示するアプリ
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 機能
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- [ ] タグ付けされた画像をタグごとに表示する
